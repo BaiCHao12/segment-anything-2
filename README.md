@@ -138,3 +138,5 @@ If you use SAM 2 or the SA-V dataset in your research, please use the following 
   year={2024}
 }
 ```
+##论文地址
+https://ai.meta.com/blog/segment-anything-2/
