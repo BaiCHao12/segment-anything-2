@@ -140,3 +140,5 @@ If you use SAM 2 or the SA-V dataset in your research, please use the following 
 ```
 ##论文地址
 https://ai.meta.com/blog/segment-anything-2/
+## pth转onnx##
+https://colab.research.google.com/drive/1tqdYbjmFq4PK3Di7sLONd0RkKS0hBgId
